@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">30</integer>
+
+    <!--  Kendi izleme id'niz. -->
+    <string name="ga_trackingId">UA-40358629-8</string>
+</resources>
